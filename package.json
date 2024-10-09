@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@types/bcryptjs": "^2.4.6"
+  }
+}
